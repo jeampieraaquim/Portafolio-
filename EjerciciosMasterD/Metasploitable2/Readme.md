@@ -81,6 +81,8 @@ Y tenemos Shell
 
 <img width="887" height="127" alt="image" src="https://github.com/user-attachments/assets/7cc03e38-fbe3-4cd4-aae2-d2ce5e24f5c8" />
 
+Comprobamos archivos
+
 <img width="108" height="409" alt="image" src="https://github.com/user-attachments/assets/f4da0ee9-3f3f-47fa-9551-dc0ef9a39900" />
 
 - Ataque de fuerza bruta
