@@ -1,5 +1,5 @@
 # Quien Soy
-Jeampier Aquim, técnico en ciberseguridad enfocado en hardening, pentesting web y análisis de vulnerabilidades. Este repositorio contiene mis proyectos prácticos y auditorías reales.
+Jeampier Aquim, técnico en ciberseguridad enfocado en hardening, pentesting web y análisis de vulnerabilidades. Este repositorio contiene mis proyectos prácticos .
 
 # Habilidades 
 - Linux Hardening (UFW, SSH secure, Fail2ban, Lynis)
