@@ -22,18 +22,18 @@ Repositorio: https://github.com/jeampieraquim/Portafolio-/tree/main/TryHackMe%20
 ### 5. Trabajo Final (MasterD)
 Repositorio: https://github.com/jeampieraquim/Portafolio-/tree/main/Trabajo-Final
 
-# Estructura del portafolio
+# Estructura del repositorio
 - EjerciciosMasterD/
   - Metasploitable2/
-    - Readme.md
+  Readme.md
 
 - Trabajo-Final/
   - Readme.md
 
 - TryHackMe/
-  - Basic Pentesting/
-  - HeartBleed/
-  - RootMe/
+  - Basic Pentesting
+  - HeartBleed
+  - RootMe
 
 - (Pendientes de añadir)
   - Hardening-Linux/
