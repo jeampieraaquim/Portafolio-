@@ -34,6 +34,7 @@ Repositorio: https://github.com/jeampieraaquim/Portafolio-/tree/main/Trabajo-Fin
   - HeartBleed
   - RootMe
 
+- Hardening-Linux/
+
 - (Pendientes de añadir)
-  - Hardening-Linux/
   - Automatizacion-Python/
