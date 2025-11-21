@@ -12,7 +12,7 @@ Jeampier Aquim, técnico en ciberseguridad enfocado en hardening, pentesting web
 ### 1. Hardening de Linux (Kali/Ubuntu) – En proceso
 Repositorio: https://github.com/jeampieraaquim/Portafolio-/tree/main/Hardening-Linux
 
-### 2. Metasploitable2 – Enumeración y Explotación
+### 2. Metasploitable2 – Enumeración y Explotación - En proceso
 Repositorio: https://github.com/jeampieraaquim/Portafolio-/tree/main/EjerciciosMasterD/Metasploitable2
 
 ### 3. TryHackMe – Prácticas documentadas
